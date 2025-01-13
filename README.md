@@ -80,9 +80,6 @@ Designing CGCAD using AutoCad and ............... on various topics.
 <div align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="100">
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" height="100">
 <img src="https://www.freepnglogos.com/uploads/linux-png/clipartist-clip-art-tux-badge-linux-super-duper-svg-39.png" alt="Linux" height="100">
@@ -91,7 +88,7 @@ Designing CGCAD using AutoCad and ............... on various topics.
  <h3>Tech Site Proficiency and Workspaces: </h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
-<img src="https://bookface-images.s3.amazonaws.com/small_logos/c463a769b2f58faee6f5bc842ce70bb66f0acc66.png" alt="Circuitlab" height="100">
+<img src="https://static.treatstock.com/static/fxd/connectedApp/logo-tinkercad-256.png?date=1518011119" alt="Tinkercad" height="150">
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo-2014-2018.png" alt="Autocad" height="100">
 <img src="https://logosmarken.com/wp-content/uploads/2022/03/VMware-Emblem.png" alt="VMWare" height="100">
 
@@ -162,7 +159,6 @@ Designing CGCAD using AutoCad and ............... on various topics.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
 <img src="https://raw.githubusercontent.com/Xpisces57/Xpisces57/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
