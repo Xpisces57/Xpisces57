@@ -35,6 +35,7 @@ Designing CGCAD using AutoCad and ............... on various topics.
 <h2 align="left">About me........</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
  <img align="right" src="./207.jpg" height="500" width="500" />
+
 <p align="left">
 🎓 A dedicated student of B.E. CSE (Hons.) AIML [association with IBM].<br>
 👨‍💻 Passionate about ..............................<br>
@@ -158,6 +159,6 @@ Designing CGCAD using AutoCad and ............... on various topics.
 <h3>🐍 Snake-Eating My Contribution Graph:</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-<img src="https://raw.githubusercontent.com/Xpisces57/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Xpisces57/Xpisces57/output/snake.svg" alt="Snake animation" />
 
 ###
