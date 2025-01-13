@@ -19,8 +19,7 @@ Here are some ideas to get you started:
     <img src="./202.jpg" height="auto" width="800" />
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Jersey+15&size=50&pause=1000&color=7A0005&width=535&height=90&lines=Hey+There+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+am+Xpisces57+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="I really am D...y" >
-
+       <img src="https://readme-typing-svg.demolab.com/?font=Jersey+15&size=50&pause=1000&color=7A0005&width=535&height=90&lines=Hey+There+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+am+Xpisces57+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="I really am D...y" >
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left">I'm pursuing Bachelor of Engineering in Computer Science with a major in Artificial Intelligence and Machine Learning in association with IBM. My studies have provided me with a strong foundational understanding of a wide range of machine learning models, including those currently in trend. 
@@ -155,10 +154,10 @@ Designing CGCAD using AutoCad and ............... on various topics.
 ###
 
 <br clear="both">
+
 <h3>🐍 Snake-Eating My Contribution Graph:</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-<img src="https://raw.githubusercontent.com/Xpisces57/Xpisces57/output/snake.svg" alt="Snake animation" />
-###
+<img src="https://raw.githubusercontent.com/Xpisces57/output/snake.svg" alt="Snake animation" />
 
 ###
